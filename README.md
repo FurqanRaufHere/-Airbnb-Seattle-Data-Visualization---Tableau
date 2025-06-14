@@ -1,6 +1,6 @@
 # -Airbnb-Seattle-Data-Visualization---Tableau
 This project showcases my ability to extract actionable insights from real-world datasets, helping property owners and travelers make data-driven decision.
----
+
 
 ## Project Overview:
 Developed an interactive Tableau dashboard to analyze Airbnb listings in Seattle, focusing on pricing trends, revenue patterns, and geographic distribution.
