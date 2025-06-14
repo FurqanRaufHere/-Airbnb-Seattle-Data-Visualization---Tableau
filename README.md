@@ -12,6 +12,6 @@ Developed an interactive Tableau dashboard to analyze Airbnb listings in Seattle
 
 
 
-Tools Used: **Tableau**.
+Tools Used: `**Tableau**`.
 
-Skills Applied: **Data Visualization** | **Data Analysis** | **Dashboard Design** | **Business Planning** | **Business Intelligence (BI)**
+Skills Applied: `**Data Visualization**` | **Data Analysis** | **Dashboard Design** | **Business Planning** | **Business Intelligence (BI)**
